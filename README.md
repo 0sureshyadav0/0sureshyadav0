@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&title=Commits"><img src="https://github-profile-trophy.vercel.app/?username=0sureshyadav0" alt="0sureshyadav0" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0sureshyadav0&title=Commits" alt="0sureshyadav0" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/0sureshyadav" target="blank"><img src="https://img.shields.io/twitter/follow/0sureshyadav?logo=twitter&style=for-the-badge" alt="0sureshyadav" /></a> </p>
 
 - 🔭 I’m currently working on **NxGen**
