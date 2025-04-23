@@ -1,7 +1,7 @@
 # 💫 About Me:
 A Full Stack Developer
 
-<img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview=true" height=30% width=30%/>
+<img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview=true" height=15% width=15% align=right/>
 
 
 ## 🌐 Socials:
