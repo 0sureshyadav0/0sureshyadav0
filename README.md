@@ -4,7 +4,7 @@
 👉 Full Stack Developer | Flutter - Android, iOS
 <br>
 <div style="display:flex;flex-direction:row;width:100%;">
-<p style="width:50px;">*Computer Science student with 3+ years of experience in Web Development, Flutter, Dart & C as well as in Android and iOS development. I can provide you with application & web development using Flutter framework. As I am mostly a self-learner, I can easily adapt to new things and always ready to take on a challenge.*</p>
+<p style="width:50px;">**_Computer Science student with 3+ years of experience in Web Development, Flutter, Dart & C as well as in Android and iOS development. I can provide you with application & web development using Flutter framework. As I am mostly a self-learner, I can easily adapt to new things and always ready to take on a challenge._**</p>
 
 " Always be eager to learn "
   
