@@ -1,6 +1,8 @@
 # 💫 About Me:
 A Full Stack Developer
 
+<img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview"/>
+
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sureshyadav.info.np) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0sureshyadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sureshyadav.info.np@gmail.com)  [![Facebook](https://img.shields.io/badge/facebook-%23000000.svg?logo=facebook&logoColor=blue)](https://www.facebook.com/suresh.yadav.390625)   [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?logo=instagram&logoColor=red)](https://www.instagram.com/sureshyadav.info.np)
