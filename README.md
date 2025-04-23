@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview=true" height=15% width=15%/>
-<h2>Suresh Yadav</h2> 
+<h2 style="font-family:"Dancing Script";>Suresh Yadav</h2> 
 👉 Full Stack Developer | Flutter - Android, iOS
 <br><br>
 
