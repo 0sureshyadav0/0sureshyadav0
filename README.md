@@ -3,7 +3,7 @@
 <h2>Suresh Yadav</h2> 
 👉 Full Stack Developer | Flutter - Android, iOS
 <br>
-<div style="display:flex;">
+<div style="display:flex;flex-direction:row;">
   Computer Science student with 3+ years of experience in Web Development, Flutter, Dart & C as well as in Android and iOS development. I can provide you with application & web development using Flutter framework. As I am mostly a self-learner, I can easily adapt to new things and always ready to take on a challenge.
 <img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview=true" height=15% width=15%/>
 
