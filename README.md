@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Suresh Yadav
+<h3>Suresh Yadav</h3> 
 👉 Full Stack Developer | Flutter - Android, iOS
 
 <img src="https://github.com/0sureshyadav0/asstets/blob/main/me.png?preview=true" height=15% width=15%/>
